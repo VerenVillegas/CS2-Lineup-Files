@@ -6,7 +6,9 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
 </div>
 
 # How to load up custom practice maps
-1. Download the repository as a .zip file.
+1. Download the required files. You can either:
+   - Download the entire repository as a zip file.
+   - Download the desired CFG files.
 2. Extract the contents.
 3. Place the desired CFG files into your CS2 game files.
 4. Open CS2.
