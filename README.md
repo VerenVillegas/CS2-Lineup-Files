@@ -1,2 +1,2 @@
 # Counter-Strike 2: CFG file for common nade lineups.
-A repository containing cfg files for common smoke lineups on active duty Counter-Strike 2 maps.
+Welcome to this repository of cfg files that contain automated settings for common nade lineups for the active duty maps in Counter-Strike 2.
