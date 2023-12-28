@@ -1,5 +1,5 @@
-# Counter-Strike 2: CFG Repo for Common Grenade Lineups.
-Welcome to this repository of cfg files that contain automated settings for common nade lineups for the active duty maps in Counter-Strike 2.
+# Counter-Strike 2: Custom Grenade Practice Server Files
+This repository contains CFG files for practicing crucial grenade lineups on Counter-Strike 2's active duty map pools
 
 <div align="center">
   <img src=./imgs/cs2-banner.jpg alt="Counter-Strike 2 banner image."/>
