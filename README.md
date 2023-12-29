@@ -77,6 +77,7 @@ Below are the list of commands you can run when running one of these CFG files:
 3. To get hints about how to throw the current lineup: Press ']'
 4. To view the list of commands in game: Press '\'
 5. To load a specific spawn: Type into the developer console the number of the spawn. E.G. To load spawn 1, type in "1" into the console (No quotation marks needed).
+6. To clear a smoke: Press 'keypad 9'
 
 
 Feel free to contribute if there are any other maps or lineups you want to add. 
