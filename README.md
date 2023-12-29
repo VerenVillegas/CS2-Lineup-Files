@@ -11,7 +11,7 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
    - Download the desired CFG files.
 
   <div align="center">
-    <img src=./imgs/tenor(2).gif alt="Mouse moving to download repository button and selecting 'download zip' option">
+    <img src="./imgs/tenor (2).gif" alt="Mouse moving to download repository button and selecting 'download zip' option">
   </div>
 
 2. Extract the contents.
