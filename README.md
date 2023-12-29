@@ -1,5 +1,5 @@
 # Counter-Strike 2: Custom Grenade Practice Server Files
-This repository contains CFG files for practicing crucial grenade lineups on Counter-Strike 2's active duty maps.
+This repository contains CFG files for practicing crucial grenade lineups on Counter-Strike 2's active duty maps. Use these CFG files and follow along your favourite YouTube video to learn these lineups.
 
 <div align="center">
   <img src=./imgs/cs2-banner.jpg alt="Counter-Strike 2 banner image."/>
