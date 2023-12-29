@@ -39,7 +39,7 @@ I recommend looking through the CFG files and rebinding any of the keys in the f
     3. Clicking on the "cfg" folder. 
 
   <div align="center">
-    <img src="./imgs/tenor (8).gif" alt="Mouse navigating to CFG folder by pressing 'game' folder, followed by 'csgo' folder, followed by 'cfg' folder.">
+    <img src="./imgs/nav.gif" alt="Mouse navigating to CFG folder by pressing 'game' folder, followed by 'csgo' folder, followed by 'cfg' folder.">
   </div>
 
 5. Copy or move the desired config file into your CFG folder
