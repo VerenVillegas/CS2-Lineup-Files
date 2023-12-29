@@ -11,14 +11,14 @@ There are 17 Mirage spawns. You can throw instant mid smokes from 12 of these sp
 
 You can check these two videos for the lineups:
 
-Video by *** _NartOutHere_ ***:
+Video by **_NartOutHere_**:
 <div align="center">
     <a href="https://www.youtube.com/watch?v=uOJEc2rPRfc&t=168s">
         <img src="../imgs/nartouthere-mirage-midsmokes-tmb.jpg" alt="NartOutHere instant mid smokes on Mirage thumbnail.">
     </a>
 </div>
 
-Video by *** _CS2 Kitchen_ ***: 
+Video by **_CS2 Kitchen_**: 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=PpB6L-ICEt8&t=181s">
         <img width=240px height=240px src="../imgs/cs2_kitchen_profile.jpg" alt="CS2 Kitchen profile picture (Cat with a chef's hat).">
