@@ -7,7 +7,7 @@ Check out this video by NartOutHere for the lineups:
 
 <div align="center">
     <a href="https://youtu.be/oiPQNOziylA">
-        <img src="../imgs/nartouthere-ancient-housesmokes-tmb" alt="NartOutHere instant house smokes on ancient thumbnail.">
+        <img src="../imgs/nartouthere-ancient-housesmokes-tmb.jpg" alt="NartOutHere instant house smokes on ancient thumbnail.">
     </a>
 </div>
 
