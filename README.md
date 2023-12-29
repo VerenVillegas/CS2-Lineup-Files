@@ -21,19 +21,19 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
   </div>
 
 3. Open your local Counter-Strike 2 files by:
-  1. Right clicking CS2 in your steam library.
-  2. Selecting "Properties".
-  3. Selecting "Installed files"
-  4. Pressing "Browse"
+  - Right clicking CS2 in your steam library.
+  - Selecting "Properties".
+  - Selecting "Installed files"
+  - Pressing "Browse"
 
   <div align="center">
     <img src="./imgs/tenor (4).gif" alt="Mouse right clicking CS2 in steam library, selecting 'properties', selecting 'installed files' and then pressing 'browse' to view local game files in file explorer.">
   </div>
 
 4. Navigate to your game's local CFG folder by:
-  1. Clicking on the "game" folder.
-  2. Clicking on the "csgo" folder. 
-  3. Clicking on the "cfg" folder. 
+  - Clicking on the "game" folder.
+  - Clicking on the "csgo" folder. 
+  - Clicking on the "cfg" folder. 
 
   <div align="center">
     <img src="./imgs/tenor (8).gif" alt="Mouse navigating to CFG folder by pressing 'game' folder, followed by 'csgo' folder, followed by 'cfg' folder.">
