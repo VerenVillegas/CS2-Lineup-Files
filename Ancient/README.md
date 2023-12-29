@@ -9,7 +9,7 @@ Importance: Throwing house smokes as fast as possible denies as much information
 
 There are 5 Ancient spawns. Of these 5, you can throw three instant house smokes and 2 quick smokes from spawn. 
 
-Check out this video by NartOutHere for the lineups:
+Check out this video by **_NartOutHere_** for the lineups:
 
 <div align="center">
     <a href="https://youtu.be/oiPQNOziylA">
