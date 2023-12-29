@@ -5,8 +5,8 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
   <img src=./imgs/cs2-banner.jpg alt="Counter-Strike 2 banner image."/>
 </div>
 
-# IMPORTANT NOTE: Keybinds
-I recommend looking through the CFG files and rebinding any of the keys in the file to your liking. This will also prevent any overriding of current keybinds that you may have. 
+# IMPORTANT NOTE: Keybinds and Settings
+I recommend looking through the CFG files and rebinding any of the keys in the file to your liking. This will also prevent any overriding of current keybinds that you may have. Also feel free to change any of the spawn settings.
 
 ## How to Install Custom Practice Maps CFG Files:
 1. Download the required files. You can either:
