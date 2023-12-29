@@ -9,7 +9,7 @@ Importance: Throwing house smokes as fast as possible denies as much information
 
 There are 5 Anubis spawns. You can throw instant house smokes from all of these spawns.
 
-Check out this video by _NartOutHere_ for the lineups:
+Check out this video by **_NartOutHere_** for the lineups:
 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=LyYD01T4ymY">
