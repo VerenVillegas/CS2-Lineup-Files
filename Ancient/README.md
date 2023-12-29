@@ -4,5 +4,11 @@
 There are 5 Ancient spawns. Of these 5, you can throw three instant house smokes and 2 quick smokes from spawn. 
 
 Check out this video by NartOutHere for the lineups:
-https://youtu.be/oiPQNOziylA
+
+<div align="center">
+    <a href="https://youtu.be/oiPQNOziylA">
+        <img src="../imgs/nartouthere-ancient-housesmokes-tmb" alt="NartOutHere instant house smokes on ancient thumbnail.">
+    </a>
+</div>
+
 
