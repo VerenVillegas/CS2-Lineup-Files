@@ -5,7 +5,7 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
   <img src=./imgs/cs2-banner.jpg alt="Counter-Strike 2 banner image."/>
 </div>
 
-# How to load up custom practice maps
+# How to Install Custom Practice Maps:
 1. Download the required files. You can either:
    - Download the entire repository as a zip file.
    - Download the desired CFG files.
