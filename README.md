@@ -5,7 +5,10 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
   <img src=./imgs/cs2-banner.jpg alt="Counter-Strike 2 banner image."/>
 </div>
 
-# How to Install Custom Practice Maps CFG Files:
+# IMPORTANT NOTE: Keybinds
+I recommend looking through the CFG files and rebinding any of the keys in the file to your liking. This will also prevent any overriding of current keybinds that you may have. 
+
+## How to Install Custom Practice Maps CFG Files:
 1. Download the required files. You can either:
    - Download the entire repository as a zip file.
    - Download the desired CFG files.
@@ -66,6 +69,15 @@ This repository contains CFG files for practicing crucial grenade lineups on Cou
   <div align="center">
     <img src="./imgs/tenor (5).gif" alt="Player playing practice server and throwing instant spawn smokes for window on Mirage.">
   </div>
+
+## Server commands
+Below are the list of commands you can run when running one of these CFG files: 
+1. Cycle through spawns: Press '/'
+2. Reposition to rethrow current lineup: Press '.'
+3. To get hints about how to throw the current lineup: Press ']'
+4. To view the list of commands in game: Press '\'
+5. To load a specific spawn: Type into the developer console the number of the spawn. E.G. To load spawn 1, type in "1" into the console (No quotation marks needed).
+
 
 Feel free to contribute if there are any other maps or lineups you want to add. 
 
